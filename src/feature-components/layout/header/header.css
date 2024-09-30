@@ -1,0 +1,23 @@
+.header{
+    position: fixed;
+    top: 0;
+    z-index: 999;
+    padding: 1rem;
+    width: 100vw;
+    border: 2px solid;
+    background-color: black;
+}
+
+.header nav{
+    height: 100%;
+}
+
+.header ul{
+    list-style: none;
+    display: flex;
+    justify-content: end;
+    gap: 5rem;
+    margin-right: 2rem;
+    height: 100%;
+    align-items: center;
+}

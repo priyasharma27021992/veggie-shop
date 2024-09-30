@@ -1,0 +1,10 @@
+.shopping-item img{
+    object-fit: contain;
+    height: 300px;
+    width: 200px;
+    cursor: pointer;
+}
+
+.shopping-item{
+
+}

@@ -1,0 +1,8 @@
+.shopping-container{
+    margin-top: 100px;
+}
+
+.grid-container{
+    display: grid;
+    gap: 2rem;
+}
